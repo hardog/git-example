@@ -1,20 +1,20 @@
 # gm-example
-some example about gm library
+some examples about gm library
 
 # units
 
-- [bitdepth](./unit/bitdepth.js)
-- [blackThreshold](./unit/blackThreshold)
-- [chop](./unit/chop.js)
-- [color](./unit/color.js)
-- [depth](./unit/depth.js)
-- [identify](./unit/identify.js)
-- [opaque](./unit/opaque.js)
-- [paint](./unit/paint.js)
-- [res](./unit/res.js)
-- [to_png](./unit/to_png.js)
-- [transparent](./unit/transparent.js)
-- [trim](./unit/trim.js)
+- [bitdepth](./units/bitdepth.js)
+- [blackThreshold](./units/blackThreshold)
+- [chop](./units/chop.js)
+- [color](./units/color.js)
+- [depth](./units/depth.js)
+- [identify](./units/identify.js)
+- [opaque](./units/opaque.js)
+- [paint](./units/paint.js)
+- [res](./units/res.js)
+- [to_png](./units/to_png.js)
+- [transparent](./units/transparent.js)
+- [trim](./units/trim.js)
 
 # usage
 
