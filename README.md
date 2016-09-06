@@ -4,7 +4,7 @@ some examples about gm library
 # units
 
 - [bitdepth](./units/bitdepth.js)
-- [blackThreshold](./units/blackThreshold)
+- [blackThreshold](./units/blackThreshold.js)
 - [chop](./units/chop.js)
 - [color](./units/color.js)
 - [depth](./units/depth.js)
