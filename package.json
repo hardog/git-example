@@ -1,0 +1,25 @@
+{
+  "name": "gm-example",
+  "version": "0.0.1",
+  "description": "some example about gm library",
+  "keywords": [
+    "gm",
+    "example",
+    "node"
+  ],
+  "scripts": {},
+  "author": "hardog",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardog/gm-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hardog/gm-example/issues"
+  },
+  "homepage": "https://github.com/hardog/gm-example",
+  "license": "MIT",
+  "dependencies": {
+    "gm": "^1.23.0"
+  }
+}
